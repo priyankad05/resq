@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "539980625466",
+    "firebase_url": "https://resq-7884f-default-rtdb.firebaseio.com",
+    "project_id": "resq-7884f",
+    "storage_bucket": "resq-7884f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539980625466:android:c505c7cf5d8c3cc325a703",
+        "android_client_info": {
+          "package_name": "com.example.loca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoqBX-KJcq3-wJm48OR_Y8cZQABmL2LJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
