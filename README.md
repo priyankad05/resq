@@ -52,6 +52,4 @@ Once ResQ is set up and running on your device, it operates seamlessly in the ba
 
 5. **In Case of Emergency**: If a crash is detected, ResQ will automatically send an SMS to your predefined emergency contacts with your custom message and precise location.
 
-## Contributors
 
-- [Prince Kumar](https://github.com/Princekumarmehta)
